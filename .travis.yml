@@ -48,8 +48,10 @@ script:
 #after_script:
 
 # Submit generated coverage report to Coveralls servers, see .coveralls.yml
+# Submit generated coverage report to codecov.io
 after_success:
  - travis_retry php coveralls.phar -v
+ - bash <(curl -s https://codecov.io/bash)
 
 #after_failure:
 
