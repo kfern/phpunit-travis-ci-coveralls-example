@@ -1,7 +1,7 @@
 ## phpUnit Testing, Travis CI and Coveralls
 
 
-[![Build Status](https://travis-ci.org/ankurk91/phpunit-travis-ci-coveralls-example.svg?branch=master)](https://travis-ci.org/ankurk91/phpunit-travis-ci-coveralls-example)
+[![Build Status](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=develop)](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=develop)
 [![Coverage Status](https://coveralls.io/repos/github/ankurk91/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/github/ankurk91/phpunit-travis-ci-coveralls-example?branch=master)
 
 
