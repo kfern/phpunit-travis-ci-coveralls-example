@@ -1,8 +1,8 @@
 ## phpUnit Testing, Travis CI and Coveralls
 
+[![Build Status](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=master)](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example)
 
-[![Build Status](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=develop)](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=develop)
-[![Coverage Status](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example)
 
 
 ### Prerequisites
