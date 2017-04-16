@@ -2,9 +2,10 @@
 
 [![Build Status](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=master)](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example)
 
-[![Coverage Status](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/github/kfern/phpunit-travis-ci-coveralls-example?branch=master)
+[![codecov](https://codecov.io/gh/kfern/phpunit-travis-ci-coveralls-example/branch/master/graph/badge.svg)](https://codecov.io/gh/kfern/phpunit-travis-ci-coveralls-example)
 
-NOTA: Coverage Status tarda bastante en actualizarse. Pendiente de mirar codecov.io
+[![Coverage Status](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/github/kfern/phpunit-travis-ci-coveralls-example?branch=master)
+NOTA: La insignia Coverage Status de coveralls tarda bastante en actualizarse (incluso días).
 
 ### Prerequisites
 * php v7.0+, [requirements](https://phpunit.de/manual/current/en/installation.html#installation.requirements)
