@@ -4,6 +4,8 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/github/kfern/phpunit-travis-ci-coveralls-example?branch=master)
 
+NOTA: Coverage Status tarda bastante en actualizarse. Pendiente de mirar codecov.io
+
 ### Prerequisites
 * php v7.0+, [requirements](https://phpunit.de/manual/current/en/installation.html#installation.requirements)
 * [phpunit](https://github.com/sebastianbergmann/phpunit/) v5.6.0
