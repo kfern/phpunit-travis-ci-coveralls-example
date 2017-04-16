@@ -38,4 +38,12 @@ class CalculatorTest extends TestCase
         $value = $obj->subtractTwo(4, 2);
         $this->assertEquals($value, 2);
     }
+    
+   public function testDivide()
+    {
+        fwrite(STDOUT, __METHOD__."\n");
+        $obj = $this->getInstance();
+        $value = $obj->divideTwo(4, 2);
+        $this->assertEquals($value, 2);
+    } 
 }
