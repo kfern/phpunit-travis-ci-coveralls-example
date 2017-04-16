@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example.svg?branch=master)](https://travis-ci.org/kfern/phpunit-travis-ci-coveralls-example)
 
-
 [![Coverage Status](https://coveralls.io/repos/github/kfern/phpunit-travis-ci-coveralls-example/badge.svg?branch=master)](https://coveralls.io/github/kfern/phpunit-travis-ci-coveralls-example?branch=master)
 
 ### Prerequisites
