@@ -59,7 +59,7 @@ after_success:
 branches:
   only: 
     - master
-	- develop
+    - develop
 
 # Configure email notifications
 notifications:
