@@ -55,9 +55,11 @@ after_success:
 
 #after_failure:
 
-# Tell Travis CI to monitor only 'master' branch
+# Tell Travis CI to monitor only 'master' and 'develop' branch
 branches:
-  only: master
+  only: 
+    - master
+	- develop
 
 # Configure email notifications
 notifications:
@@ -70,4 +72,3 @@ cache:
   directories:
   - vendor
   - $HOME/.cache/composer
-
